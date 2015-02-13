@@ -1,2 +1,2 @@
 # datasciencecoursera
-This if for data science coursera
+This is for data science coursera
